@@ -9,4 +9,6 @@ El historial quedará almacenado dentro del fichero `history.txt` de la carpeta 
 
 Los tests se han ejecutado correctamente mediante el GitHub actions en 4 versiones de node distinas: `[10.x, 12.x, 14.x, 15.x]`
 . Hemos empleado la clase EventEmitter para poder lanzar eventos a los manejadores, siguiendo el ejemplo de los apuntes de clase.
+
+
 [![Tests](https://github.com/alu0101216126/practica10-modificacion-pe103/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101216126/practica10-modificacion-pe103/actions/workflows/node.js.yml)
